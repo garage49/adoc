@@ -82,7 +82,7 @@ pnpm check     # type-check every package, its tests, and plugins/
 
 ## Release
 
-One version line for the whole repository, by the garage49 build rules (`garage49/.github` RULES.md): every package, adoc-hub (`ranch-plugin/Cargo.toml`, `herdr-plugin.toml`) and the release tag carry the version of the root `package.json`; `pnpm check` runs `tooling/versions.mjs`, which fails when a file disagrees. A release is a tag `vX.Y.Z` on `main` equal to that version, built by the shared garage49 build (`.github/workflows/build.yml`, maintained by sdfj_kr): it publishes the npm packages and the adoc-hub assets. Every other build is a snapshot.
+One version line for the whole repository, by the garage49 build rules (`garage49/.github` RULES.md): every package, adoc-hub (`ranch-plugin/Cargo.toml`, `herdr-plugin.toml`) and the release tag carry the version of the root `package.json`; `pnpm check` runs `tooling/versions.mjs`, which fails when a file disagrees. A release is a tag `vX.Y.Z` on `main` equal to that version, built by the shared garage49 build (`.github/workflows/build.yml`, maintained by `sdfj_kr.maintainer@mldev`): it publishes the npm packages and the adoc-hub assets. Every other build is a snapshot.
 
 What the build runs, for reference:
 

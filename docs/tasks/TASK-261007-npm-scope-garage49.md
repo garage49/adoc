@@ -1,7 +1,7 @@
 ---
 title: npm scope @agent-workshop -> @garage49, with a transition for old names
 status: REVIEW
-assignee: adoc-dev
+assignee: adoc.developer
 notes: [NOTE-261007-npm-scope-garage49]
 ---
 

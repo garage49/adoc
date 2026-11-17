@@ -1,7 +1,7 @@
 ---
 title: adoc under a hub (server list, base path, host switcher)
 status: REVIEW
-assignee: adoc-dev
+assignee: adoc.developer
 notes: [NOTE-261002-ranch-adoc-hub]
 related: [TASK-261002-adoc-hub-plugin]
 ---

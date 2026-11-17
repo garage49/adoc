@@ -1,7 +1,7 @@
 ---
 title: adoc-hub, the herdr-ranch plugin (Rust)
 status: RUNNING
-assignee: adoc-dev
+assignee: adoc.developer
 notes: [NOTE-261002-ranch-adoc-hub]
 related: [TASK-261002-hub-embedding]
 ---

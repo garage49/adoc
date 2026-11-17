@@ -1,7 +1,7 @@
 ---
 title: adoc-hub status pane on the garage49 TUI design system; no status_command
 status: DONE
-assignee: adoc-dev
+assignee: adoc.developer
 notes: [NOTE-261002-ranch-adoc-hub]
 related: [TASK-261002-adoc-hub-plugin]
 ---

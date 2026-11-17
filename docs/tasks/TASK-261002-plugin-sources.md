@@ -1,7 +1,7 @@
 ---
 title: plugin sources, layered config and the five plugins as packages
 status: DONE
-assignee: adoc-dev
+assignee: adoc.developer
 notes: [NOTE-261002-plugin-sources]
 related: [TODO-adoc]
 ---
