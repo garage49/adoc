@@ -8,7 +8,7 @@ plugins:
 watch:
   - ../docs
 agent:
-  name: adoc-dev
+  name: adoc.developer
   transport:
     kind: herdr
 server:
